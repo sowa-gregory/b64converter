@@ -1,6 +1,6 @@
 version: "3"
 services:
   b64converter:
-    image: sowisz/base64
+    image: qqq
     ports:
       - "80:80"
